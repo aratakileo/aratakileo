@@ -34,6 +34,13 @@ Timezone: Russia/Moscow
 Pronouns: He/Him
 </p>
 
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://github.com/TeaCondemns/pexty.studios.xyz/blob/main/src/python.png?raw=true" alt="python" height="25"/>
+
+</p>
+
+<h3 align="center">Statistics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCondemns&layout=compact&bg_color=0d1117&title_color=2a6ecb&text_color=fff" width="400" />
   <br />
