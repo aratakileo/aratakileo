@@ -36,7 +36,7 @@ Pronouns: He/Him
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://github.com/TeaCondemns/pexty.studios.xyz/blob/main/src/python.png?raw=true" alt="python" height="25"/>
+  <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/python.png?raw=true" alt="python" height="25"/>
 
 </p>
 
