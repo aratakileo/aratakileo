@@ -36,8 +36,33 @@ Pronouns: He/Him
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/python.png?raw=true" alt="python" height="25"/>
-
+  <a href="https://www.python.org/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/python.png?raw=true" alt="python" height="25"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/pycharm.png?raw=true" alt="pycharm" height="25"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/github.png?raw=true" alt="github" height="25"/>
+  </a>
+  <a href="https://iconscout.com/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/iconscout.png?raw=true" alt="iconscout" height="25"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/c.png?raw=true" alt="c" height="25"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/cplusplus.png?raw=true" alt="c++" height="25"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/csharp.png?raw=true" alt="c#" height="25"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/visualstudio.png?raw=true" alt="visual studios" height="25"/>
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/rust.png?raw=true" alt="rust" height="25"/>
+  </a>
 </p>
 
 <h3 align="center">Statistics</h3>
