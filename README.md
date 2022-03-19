@@ -2,17 +2,30 @@
   <h1 align="center"><b>Hi there</b></h1>
 </p>
 <p align="center">
-<a href="https://t.me/TeaCondemns"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
+  <a href="https://t.me/TeaCondemns"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
 </p>
-<p>Enthusiastic Software Engineer since 2017. </p>
+<p>Enthusiastic self-taught developer (he/him) since 2017.</p>
+<br />
+<h2 align="center">My favorite projects 💻</h2>
 <br />
 
-<!--
-I am a self-taught developer (he/him), I have been programming since 2017.
-
-I am currently working on [Cofty: Programming Language](https://github.com/TeaCondemns/cofty).
-
-You can contact me by [Telegram](https://t.me/TeaCondemns).
+<p align="center">
+  <a href="https://github.com/TeaCondemns/cofty">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=cofty&theme=github_dark" />
+  </a>
+  <br />
+  <a href="https://github.com/TeaCondemns/AndroidFloatingWindowsEngine">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=AndroidFloatingWindowsEngine&theme=github_dark" />
+  </a>
+  <br />
+  <a href="https://github.com/TeaCondemns/ThePlanScam">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=ThePlanScam&theme=github_dark" />
+  </a>
+  <br />
+  <a href="https://github.com/TeaCondemns/saify">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=saify&theme=github_dark" />
+  </a>
+</p>
 
 <!--
 **TeaCondemns/TeaCondemns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
