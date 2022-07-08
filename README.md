@@ -5,7 +5,7 @@
   <a>Enthusiastic self-taught developer since 2017.</a>
   <br />
   <br />
-  <a href="https://t.me/TeaCondemns"><img src="https://img.shields.io/badge/Telegram-2a6ecb?style=for-the-badge&logo=telegram&logoColor=2a6ecb" alt="Telegram" /> </a>
+  <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-2a6ecb?style=for-the-badge&logo=telegram&logoColor=2a6ecb" alt="Telegram" /> </a>
 </p>
 
 <h3 align="center">My current project</h2>
