@@ -8,15 +8,21 @@
   <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-2a6ecb?style=for-the-badge&logo=telegram&logoColor=2a6ecb" alt="Telegram" /> </a>
 </p>
 
-<h3 align="center">My current project</h2>
+<h3 align="center">My current projects</h2>
 <p align="center">
   <a href="https://github.com/TeaCondemns/cofty">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=cofty&theme=github_dark&title_color=2a6ecb" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=quick-harvest-plugin&theme=github_dark&title_color=2a6ecb" />
+  </a>
+  <a href="https://github.com/TeaCondemns/cofty">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=night-skipper-plugin&theme=github_dark&title_color=2a6ecb" />
   </a>
 </p>
 
 <h3 align="center">My favorite projects</h2>
 <p align="center">
+  <a href="https://github.com/TeaCondemns/cofty">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=quick-harvest-plugin&theme=github_dark&title_color=2a6ecb" />
+  </a>
   <a href="https://github.com/TeaCondemns/cofty">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=cofty&theme=github_dark&title_color=2a6ecb" />
   </a>
@@ -24,7 +30,6 @@
   <a href="https://github.com/TeaCondemns/AndroidFloatingWindowsEngine">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=AndroidFloatingWindowsEngine&theme=github_dark&title_color=2a6ecb" />
   </a>
-  <br />
   <a href="https://github.com/TeaCondemns/ThePlanScam">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=ThePlanScam&theme=github_dark&title_color=2a6ecb" />
   </a>
@@ -80,11 +85,9 @@ Pronouns: He/Him
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=TeaCondemns&theme=black-ice&date_format=j%20M%5B%20Y%5D" width="400" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=TeaCondemns&bg_color=0d1117&title_color=2a6ecb&text_color=fff&show_icons=true&icon_color=2a6ecb" width="400"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCondemns&layout=compact&bg_color=0d1117&title_color=2a6ecb&text_color=fff" width="400" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TeaCondemns&theme=black-ice&date_format=j%20M%5B%20Y%5D" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCondemns&layout=compact&bg_color=0d1117&title_color=2a6ecb&text_color=fff" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeaCondemns&bg_color=0d1117&title_color=2a6ecb&text_color=fff&show_icons=true&icon_color=2a6ecb" width="300"/>
 </p>
 
 <!--
