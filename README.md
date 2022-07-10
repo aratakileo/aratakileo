@@ -86,8 +86,8 @@ Pronouns: He/Him
 <h3 align="center">Statistics</h3>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TeaCondemns&theme=black-ice&date_format=j%20M%5B%20Y%5D" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCondemns&layout=compact&bg_color=0d1117&title_color=2a6ecb&text_color=fff" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=TeaCondemns&bg_color=0d1117&title_color=2a6ecb&text_color=fff&show_icons=true&icon_color=2a6ecb" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaCondemns&layout=compact&bg_color=0d1117&title_color=2a6ecb&text_color=fff" width="300" />
 </p>
 
 <!--
