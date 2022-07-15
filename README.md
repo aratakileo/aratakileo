@@ -10,17 +10,17 @@
 
 <h3 align="center">My current projects</h2>
 <p align="center">
-  <a href="https://github.com/TeaCondemns/cofty">
+  <a href="https://github.com/TeaCondemns/quick-harvest-plugin">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=quick-harvest-plugin&theme=github_dark&title_color=2a6ecb" />
   </a>
-  <a href="https://github.com/TeaCondemns/cofty">
+  <a href="https://github.com/TeaCondemns/night-skipper-plugin">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=night-skipper-plugin&theme=github_dark&title_color=2a6ecb" />
   </a>
 </p>
 
 <h3 align="center">My favorite projects</h2>
 <p align="center">
-  <a href="https://github.com/TeaCondemns/cofty">
+  <a href="https://github.com/TeaCondemns/quick-harvest-plugin">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=quick-harvest-plugin&theme=github_dark&title_color=2a6ecb" />
   </a>
   <a href="https://github.com/TeaCondemns/cofty">
