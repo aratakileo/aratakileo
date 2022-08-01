@@ -8,7 +8,7 @@
   <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-2a6ecb?style=for-the-badge&logo=telegram&logoColor=2a6ecb" alt="Telegram" /> </a>
 </p>
 
-<h3 align="center">My current projects</h2>
+<h3 align="center">My last projects</h2>
 <p align="center">
   <a href="https://github.com/TeaCondemns/quick-harvest-plugin">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaCondemns&repo=quick-harvest-plugin&theme=github_dark&title_color=2a6ecb" />
