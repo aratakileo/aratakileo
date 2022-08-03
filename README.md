@@ -81,6 +81,9 @@ Pronouns: He/Him
   <a href="https://kotlinlang.org/">
     <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/kotlin.png?raw=true" alt="Kotlin" height="25"/>
   </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://github.com/TeaCondemns/static.pexty.xyz/blob/main/src/icons/intellij.png?raw=true" alt="IntelliJ" height="25"/>
+  </a>
 </p>
 
 <h3 align="center">Statistics</h3>
