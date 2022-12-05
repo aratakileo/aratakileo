@@ -10,12 +10,12 @@
 
 <h3 align="center">My last projects</h2>
 <p align="center">
-  <a href="https://github.com/teacondemns/bezier-curve">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=bezier-curve&theme=github_dark&title_color=2a6ecb" />
-  </a>
-  <br />
   <a href="https://github.com/teacondemns/pygex">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=pygex&theme=github_dark&title_color=2a6ecb" />
+  </a>
+  <br />
+  <a href="https://github.com/teacondemns/bezier-curve">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=bezier-curve&theme=github_dark&title_color=2a6ecb" />
   </a>
   <br />
   <a href="https://github.com/teacondemns/quick-harvest-plugin">
@@ -25,16 +25,16 @@
 
 <h3 align="center">My favorite projects</h2>
 <p align="center">
+  <a href="https://github.com/teacondemns/pygex">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=pygex&theme=github_dark&title_color=2a6ecb" />
+  </a>
+  <br />
   <a href="https://github.com/teacondemns/quick-harvest-plugin">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=quick-harvest-plugin&theme=github_dark&title_color=2a6ecb" />
   </a>
   <br />
   <a href="https://github.com/teacondemns/AndroidFloatingWindowsEngine">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=AndroidFloatingWindowsEngine&theme=github_dark&title_color=2a6ecb" />
-  </a>
-  <br />
-  <a href="https://github.com/teacondemns/pygex">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=pygex&theme=github_dark&title_color=2a6ecb" />
   </a>
   <br />
   <a href="https://github.com/teacondemns/saify">
