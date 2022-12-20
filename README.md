@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there 👋</b></h1>
 </p>
 <p align="center">
-  <a>Enthusiastic self-taught developer since 2017.</a>
+  <a>|Enthusiastic self-taught developer since 2017|</a>
   <br />
   <br />
   <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-2a6ecb?style=for-the-badge&logo=telegram&logoColor=2a6ecb" alt="Telegram" /> </a>
