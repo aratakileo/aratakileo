@@ -8,12 +8,15 @@
   <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-2a6ecb?style=for-the-badge&logo=telegram&logoColor=2a6ecb" alt="Telegram" /> </a>
 </p>
 
-<h3 align="center">My last projects</h2>
+<h3 align="center">My current project</h3>
 <p align="center">
   <a href="https://github.com/teacondemns/pygex">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=pygex&theme=github_dark&ver=2" />
   </a>
-  <br />
+</p>
+
+<h3 align="center">My last projects</h3>
+<p align="center">
   <a href="https://github.com/teacondemns/bezier-curve">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=bezier-curve&theme=github_dark&ver=2" />
   </a>
@@ -23,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="center">My favorite projects</h2>
+<h3 align="center">My favorite projects</h3>
 <p align="center">
   <a href="https://github.com/teacondemns/pygex">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=pygex&theme=github_dark&ver=2" />
