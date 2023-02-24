@@ -5,7 +5,7 @@
   <a>|Enthusiastic self-taught developer since 2017|</a>
   <br />
   <br />
-  <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-768cff?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" /> <a href="https://bento.me/aratakileo"><img src="https://img.shields.io/badge/Bento-My visit card-768cff?style=for-the-badge" alt="Bento" /> </a>
+  <a href="https://t.me/XNWBB"><img src="https://img.shields.io/badge/XNWBB-channel [RU]-768cff?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" /><a/> <a href="https://twitter.com/aratakileo"><img src="https://img.shields.io/badge/Arataki Leo-Twitter-768cff?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter" /></a> <a href="https://bento.me/aratakileo"><img src="https://img.shields.io/badge/Arataki Leo-Bento-768cff?style=for-the-badge" alt="Bento" /></a>
 </p>
 
 <h3 align="center">My current project</h3>
