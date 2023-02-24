@@ -53,14 +53,14 @@
   </a>
 </p>
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/icon/emoji/animated/sparkles.gif?raw=true" height="30"/></h2>
 <p align="center">
 Timezone: Russia/Moscow
 <br />
 Pronouns: He/Him
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools </h3>
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/icon/lang/python.png?raw=true" alt="Python" height="25"/>
