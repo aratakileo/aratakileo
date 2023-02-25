@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/icon/emoji/animated/waving_hand.gif?raw=true" height="35"/></b></h1>
+  <h1 align="center"><b>Hi there <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/emoji/animated/waving_hand.gif?raw=true" height="35"/></b></h1>
 </p>
 <p align="center">
   <a>• Enthusiastic self-taught developer since 2017 •</a>
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<h2 align="center">About me <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/icon/emoji/animated/sparkles.gif?raw=true" height="30"/></h2>
+<h2 align="center">About me <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/emoji/animated/sparkles.gif?raw=true" height="30"/></h2>
 <p align="center">
 Timezone: Russia/Moscow
 <br />
