@@ -5,7 +5,7 @@
   <a>• Enthusiastic self-taught developer since 2017 •</a>
   <br />
   <br />
-  <!--
+  
   <a href="https://t.me/XNWBB">
     <img src="https://img.shields.io/badge/XNWBB-channel [RU]-768cff?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" />
   <a/>
@@ -15,7 +15,7 @@
   <a href="https://bento.me/aratakileo">
     <img src="https://img.shields.io/badge/Arataki Leo-Bento-768cff?style=for-the-badge" alt="Bento" />
   </a>
-  -->
+ 
 </p>
 
 <h3 align="center">My current project</h3>
@@ -28,7 +28,7 @@
 <h3 align="center">My last projects</h3>
 <p align="center">
   <a href="https://github.com/teacondemns/sveter.com">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=sveter.com&theme=github_dark" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=sveter.com&theme=github_dark&easport=no" />
   </a>
   <br />
   <a href="https://github.com/teacondemns/bezier-curve">
