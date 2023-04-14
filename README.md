@@ -27,6 +27,10 @@
 
 <h3 align="center">My last projects</h3>
 <p align="center">
+  <a href="https://github.com/teacondemns/sveter.com">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=sveter.com&theme=github_dark&ver=2" />
+  </a>
+  <br />
   <a href="https://github.com/teacondemns/bezier-curve">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=teacondemns&repo=bezier-curve&theme=github_dark&ver=2" />
   </a>
