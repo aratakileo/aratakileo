@@ -5,15 +5,14 @@
   <a>• Enthusiastic self-taught developer since 2017 •</a>
   <br />
   <br />
-  
-  <a href="https://t.me/XNWBB">
-    <img src="https://img.shields.io/badge/XNWBB-channel [RU]-768cff?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" />
-  <a/>
   <a href="https://twitter.com/aratakileo">
-    <img src="https://img.shields.io/badge/Arataki Leo-Twitter-768cff?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-768cff?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter" />
   </a>
   <a href="https://bento.me/aratakileo">
-    <img src="https://img.shields.io/badge/Arataki Leo-Bento-768cff?style=for-the-badge" alt="Bento" />
+    <img src="https://img.shields.io/badge/Bento-768cff?style=for-the-badge&logo=bento&logoColor=ffffff" alt="Bento" />
+  </a>
+ <a href="https://modrinth.com/user/aratakileo">
+    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=ffffff" alt="Modrinth" />
   </a>
  
 </p>
