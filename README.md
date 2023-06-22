@@ -22,6 +22,7 @@
   <a href="https://github.com/aratakileo/emogg">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=emogg&theme=github_dark&ver=2" />
   </a>
+  <br />
   <a href="https://github.com/aratakileo/pygex">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=pygex&theme=github_dark&ver=2" />
   </a>
