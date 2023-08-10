@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/emoji/animated/waving_hand.gif?raw=true" height="35"/></b></h1>
 </p>
 <p align="center">
-  <a>• Enthusiastic self-taught developer since 2017 •</a>
+  <a>• Java, Python, Kotlin developer •</a>
   <br />
   <br />
   <a href="https://twitter.com/aratakileo">
@@ -77,26 +77,8 @@ Pronouns: He/Him
   <a href="https://www.jetbrains.com/pycharm/">
     <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/program/pycharm.png?raw=true" alt="Pycharm" height="25"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/program/github.png?raw=true" alt="GitHub" height="25"/>
-  </a>
-  <a href="https://iconscout.com/">
-    <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/program/iconscout.png?raw=true" alt="Iconscout" height="25"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/lang/c.png?raw=true" alt="C" height="25"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/lang/cplusplus.png?raw=true" alt="C++" height="25"/>
-  </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/lang/csharp.png?raw=true" alt="C#" height="25"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/program/visualstudio.png?raw=true" alt="Visual Studios" height="25"/>
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/lang/rust.png?raw=true" alt="Rust" height="25"/>
   </a>
   <a href="https://www.java.com/">
     <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/icon/lang/java.png?raw=true" alt="Java" height="25"/>
