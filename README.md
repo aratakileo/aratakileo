@@ -5,9 +5,6 @@
   <a>• Java, Python, Kotlin developer •</a>
   <br />
   <br />
-  <a href="https://twitter.com/aratakileo">
-    <img src="https://img.shields.io/badge/Twitter-768cff?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter" />
-  </a>
   <a href="https://bento.me/aratakileo">
     <img src="https://img.shields.io/badge/Bento-768cff?style=for-the-badge&logo=bento&logoColor=ffffff" alt="Bento" />
   </a>
