@@ -11,8 +11,8 @@
  <a href="https://modrinth.com/user/aratakileo">
     <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=ffffff" alt="Modrinth" />
   </a>
- <a ref="https://discord.gg/t5ZqftXG4b">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Modrinth" />
+ <a href="https://discord.gg/t5ZqftXG4b">
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord" />
   </a>
  
 </p>
