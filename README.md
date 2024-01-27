@@ -23,23 +23,23 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=emogg&theme=github_dark&ver=2" />
   </a>
   <br />
-  <a href="https://github.com/aratakileo/jime">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=jime&theme=github_dark&ver=2" />
+  <a href="https://github.com/aratakileo/suggestions-api">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=suggestions-api&theme=github_dark&ver=2" />
   </a>
 </p>
 
 <h3 align="center">My last projects</h3>
 <p align="center">
-  <a href="https://github.com/aratakileo/pygex">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=pygex&theme=github_dark" />
-  </a>
-  <br />
-  <a href="https://github.com/aratakileo/sveter.com">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=sveter.com&theme=github_dark" />
+  <a href="https://github.com/aratakileo/jime">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=jime&theme=github_dark" />
   </a>
   <br />
   <a href="https://github.com/aratakileo/quick-harvest-plugin">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=quick-harvest-plugin&theme=github_dark&ver=2" />
+  </a>
+  <br />
+  <a href="https://github.com/aratakileo/pygex">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=pygex&theme=github_dark" />
   </a>
 </p>
 
