@@ -64,8 +64,7 @@
 
 <h2 align="center">About me <img src="https://github.com/aratakileo/static.pexty.xyz/blob/main/src/emoji/animated/sparkles.gif?raw=true" height="30"/></h2>
 <p align="center">
-  
-Timezone: `GMT/UTC+3:00`
+Timezone: <code>GMT/UTC+3:00</code>
 <br />
 Pronouns: He/Him
 </p>
