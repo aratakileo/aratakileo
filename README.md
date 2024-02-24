@@ -23,8 +23,8 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=emogg&theme=github_dark&ver=2" />
   </a>
   <br />
-  <a href="https://github.com/aratakileo/suggestions-api">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=suggestions-api&theme=github_dark&ver=2" />
+  <a href="https://github.com/aratakileo/elegantia">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=elegantia&theme=github_dark&ver=2" />
   </a>
 </p>
 
@@ -34,8 +34,8 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=jime&theme=github_dark" />
   </a>
   <br />
-  <a href="https://github.com/aratakileo/quick-harvest-plugin">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=quick-harvest-plugin&theme=github_dark&ver=2" />
+  <a href="https://github.com/aratakileo/suggestions-api">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aratakileo&repo=suggestions-api&theme=github_dark&ver=2" />
   </a>
   <br />
   <a href="https://github.com/aratakileo/pygex">
